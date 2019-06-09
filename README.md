@@ -1,2 +1,2 @@
-# RStudio
-R exercises
+# Python
+Python Exercises
