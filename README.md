@@ -1,2 +1,3 @@
 # Python
-Python Exercises
+Python Exercises in Jupyter Notebook
+
